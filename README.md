@@ -1,4 +1,4 @@
-vid Gudeman
+David Gudeman
 
 March 19, 2015
 
@@ -10,7 +10,7 @@ CIS33 Operating Systems
 
 >"A file is any source, with a name, from which data can be read; or any target, with a name, to which data can be written”. [1]
 
-"On a UNIX system, everything is a file; if something is not a file, it is a process." [2]
+>"On a UNIX system, everything is a file; if something is not a file, it is a process." [2]
 
 In Unix the term “file” refers not only to an abstracted concept of a memory location to hold data but also any physical device. A keyboard (input device) and a monitor (output device) are both considered files. Files are other structures that provide services (like daemons) that have no physical aspect but provide services to the computer system. This provides the system with great flexibility because it allows the programmer a standard I/O interface to be expected whether the data is coming from a hard disk or a keyboard, or if the data is going to memory or the monitor.  
 
